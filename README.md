@@ -8,6 +8,29 @@ A full-stack application for managing a clinic/center workflow:
 
 ---
 
+This repository serves as a **reference repository** for the Alternative Medicine project.
+
+⚠️ **Note:**  
+The actual source code for this project is located in a **different GitHub repository**.
+
+---
+
+## Project Repository
+The full project (including source code, frontend and backend) can be found here:
+
+👉 https://github.com/yafi32779/alternativeMedicineFront  
+👉 https://github.com/yafi32779/altenativeMedicineBackend  
+
+(See the linked repositories for setup instructions, code structure, and implementation details.)
+
+---
+
+## Status
+This repository contains **documentation and references only**.
+No active development is done here.
+
+---
+
 ## Repositories
 - Frontend: `alternativeMedicineFront`
 - Backend: `altenativeMedicineBackend`
